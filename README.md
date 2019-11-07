@@ -3,4 +3,4 @@ Learn about Machine Learning Algorithm and theory
 # Practice machine learning skill about diversified data
 ex:airbnb、taxi、house price
 # Total one hundred days
-from data manipulation
+from data manipulation to data analysis
