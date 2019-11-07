@@ -1,5 +1,5 @@
 # 2nd-ML100Days
 Learn about Machine Learning Algorithm and theory
-#Practice Machine Learning skill about diversified data
+# Practice Machine Learning skill about diversified data
 
-#Total One hundred days
+# Total One hundred days
